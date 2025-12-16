@@ -1,0 +1,4 @@
+릿코드 공부 순서
+Arraya101 - Array And String - Linked List - Queue&Stack - Heap - Binary Tree
+Hash Table - Trie - Binary Search Tree - Dynamic Programming - N-ary Tree 
+Decison Tree - Graph - Recursion 1 - Recursion 2 - Binary Search - Machin Learning

@@ -2,11 +2,11 @@
 
 Arrays / Hashing
 
-    1 Two Sum
+    1 Two Sum - Done
 
-    217 Contains Duplicate
+    217 Contains Duplicate - Done
 
-    242 Valid Anagram
+    242 Valid Anagram - Done
 
     49 Group Anagrams (M)
 
@@ -18,7 +18,7 @@ Arrays / Hashing
 
 Two Pointers / Sliding Window
 
-    125 Valid Palindrome
+    125 Valid Palindrome - Done
 
     167 Two Sum II
 
@@ -26,7 +26,7 @@ Two Pointers / Sliding Window
 
     11 Container With Most Water (M)
 
-    121 Best Time to Buy and Sell Stock
+    121 Best Time to Buy and Sell Stock - Done
 
     3 Longest Substring Without Repeating Characters (M)
 
@@ -34,7 +34,7 @@ Two Pointers / Sliding Window
 
 Stack
 
-    20 Valid Parentheses
+    20 Valid Parentheses - Done
 
     155 Min Stack (M)
 

@@ -8,7 +8,7 @@ Arrays / Hashing
 
     242 Valid Anagram - Done
 
-    49 Group Anagrams (M)
+    49 Group Anagrams (M) - Done
 
     347 Top K Frequent Elements (M)
 
@@ -20,7 +20,7 @@ Two Pointers / Sliding Window
 
     125 Valid Palindrome - Done
 
-    167 Two Sum II
+    167 Two Sum II - Done
 
     15 3Sum (M)
 
